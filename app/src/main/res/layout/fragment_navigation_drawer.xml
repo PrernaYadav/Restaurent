@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/trans_black"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/nav_header_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@color/trans_black"
+        android:orientation="vertical"
+        android:padding="18dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/ivTitleIcon"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_below="@+id/imageView"
+            android:layout_marginTop="24dp"
+            android:src="@mipmap/gaurav" />
+
+        <TextView
+            android:id="@+id/titlee"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:text="Gaurav"
+            android:textSize="17sp"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/tvUserName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:text="Edit profile"
+            android:textColor="@color/green">
+
+        </TextView>
+    </LinearLayout>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/drawerList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/nav_header_container"
+        android:background="@color/trans_black"
+        android:padding="10dp"
+
+        />
+
+</RelativeLayout>

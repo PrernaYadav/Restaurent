@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nav_drawer_labels">
+        <item>Menu</item>
+        <item>Offers</item>
+        <item>MyCart</item>
+        <item>LastOrder</item>
+        <item>Favorite</item>
+        <item>Settings</item>
+        <item>Support</item>
+
+
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@mipmap/menu</item>
+        <item>@mipmap/offers</item>
+        <item>@mipmap/mycart</item>
+        <item>@mipmap/lastorder</item>
+        <item>@mipmap/favorite</item>
+        <item>@mipmap/settings</item>
+        <item>@mipmap/support</item>
+
+    </array>
+    <string-array name="Count">
+        <item>Menu</item>
+        <item>Offers</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:weightSum="2">
+    <include
+        android:id="@+id/toolbar3"
+        layout="@layout/toolbar4"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@mipmap/card"
+        android:layout_weight="1"
+
+        android:gravity="center">
+
+        <EditText
+            android:id="@+id/et_adc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+
+            android:layout_marginTop="47dp"
+            android:layout_gravity="center"
+            />
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:background="@color/green"
+android:layout_marginTop="10dp"
+        >
+        <Button
+            android:id="@+id/btn_checkout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Checkout"
+            android:textColor="@color/white"
+          android:background="@color/green" />
+
+        <Button
+            android:id="@+id/btn_$c"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="$18.50"
+            android:textColor="@color/white"
+          android:background="@color/green" />
+
+    </LinearLayout>
+</LinearLayout>

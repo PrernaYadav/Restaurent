@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Restaurent</string>
+
+    <string name="app_id">153229418592902</string>
+
+
+
+
+
+    <string name="text">No matter where you are:</string>
+    <string name="search_hint">Search</string>
+    <string name="textt">whether you are at home or in the  office or on the beach-we will find you and we will feed you</string>
+    <string name="texttt"> </string>
+    <string name="textttt"> </string>
+
+    <string name="hint">Gaurav Shiwft </string>
+    <string name="hintname">Gaurav Shiwft </string>
+    <string name="name">Name </string>
+    <string name="phn">Phone</string>
+    <string name="emaill">Email</string>
+    <string name="pswd">Password </string>
+    <string name="entercode">ENTER CODE </string>
+    <string name="fromsms">from sms</string>
+    <string name="forgotpassword">FORGOT PASSWORD</string>
+    <string name="signinn">SIGN IN</string>
+    <string name="adress">Address 1 </string>
+    <string name="mycard"> Card 1 </string>
+    <string name="editname">Edit Name </string>
+    <string name="entries">Food of the day </string>
+    <string name="hintt">+1-202-555-102</string>
+    <string name="phno">Phone number</string>
+    <string name="forget">Enter password</string>
+    <string name="fav">ADD TO FAVORITE </string>
+    <string name="hintpager">Your message.. </string>
+    <string name="cart">ADD TO CART </string>
+    <string name="email">Office@asmobisoft </string>
+    <string name="hintpassword">**********</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="count">9+</string>
+    <string name="pager">Beaf Stick sauce, French fries</string>
+    <string name="entrycount">23</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="address">USA,Pennsylva,1869 Cherry Street Rosevilla</string>
+    <string name="cardno">XXXX XXXX XXXX 5467</string>
+    <string name="scan">Scan,</string>
+    <string name="termsandcondition"><u> Terms and Condition</u>.</string>
+    <string name="permission">AEAT needs the following permission to serve you better result</string>
+    <string name="loc">LOCATION</string>
+    <string name="loc1">AEAT needes the following permission to save you better results</string>
+    <string name="cll">CALL</string>
+    <string name="call1">Contact Buyers/Suppliers directly</string>
+    <string name="msg">MESSAGE</string>
+    <string name="msg1">Easily auto varify your mobile no by sms</string>
+    <string name="deladd">Delivery address</string>
+    <string name="media1">Store Images for faster experience</string>
+    <string name="add1">Address 1</string>
+    <string name="credit">Cradit Card</string>
+    <string name="media">MEDIA AND STORAGE</string>
+
+    <string name="account"><u> account</u></string>
+    <string name="forgot"><u>Forgot password?</u></string>
+    <string name="signin"><u>Sign Up </u></string>
+    <string name="repeat"><u> Repeat </u></string>
+    <string name="scann"><u>Scan </u></string>
+
+    <string name="tab_1">Tab 1</string>
+    <string name="tab_2">Tab 2</string>
+    <string name="tab_3">Tab 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="titles">
+        <item>Facebook</item>
+        <item>Google-Plus</item>
+        <item>TutorialsBuzz</item>
+    </string-array>
+
+
+    //navigation//
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search1">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_menu">Menu</string>
+    <string name="nav_item_offers">Offers</string>
+    <string name="nav_item_mycart">My cart</string>
+    <string name="nav_item_lastorder">LastOrder</string>
+    <string name="nav_item_favorite">Favorite</string>
+    <string name="nav_item_setting">Setting</string>
+    <string name="nav_item_suport">Support</string>
+
+    <!-- menu_main drawer item labels  -->
+    <!-- <string-array name="nav_drawer_labels">
+         <item>@string/nav_item_menu</item>
+         <item>@string/nav_item_mycart</item>
+         <item>@string/nav_item_suport</item>
+         <item>@string/nav_item_favorite</item>
+         <item>@string/nav_item_setting</item>
+         <item>@string/nav_item_offers</item>
+         <item>@string/nav_item_lastorder</item>
+     </string-array>-->
+
+
+    <!--
+        <string-array name="nav_drawer_icons">
+            <item>@string/nav_item_menu</item>
+            <item>@string/nav_item_mycart</item>
+            <item>@string/nav_item_suport</item>
+            <item>@string/nav_item_favorite</item>
+            <item>@string/nav_item_setting</item>
+            <item>@string/nav_item_offers</item>
+            <item>@string/nav_item_lastorder</item>
+        </string-array>-->
+
+
+    <string name="title_menu">Menu</string>
+    <string name="title_offers">Offers</string>
+    <string name="title_mycart">Mycart</string>
+    <string name="title_lastorder">LastOrder</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_settings">Setting</string>
+    <string name="title_support">Support</string>
+
+</resources>
